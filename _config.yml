@@ -9,11 +9,4 @@ aux_links:
 
 
 
-  # Navigation
-nav:
-  - title: Home
-    url: /
-    nav_order: 1
-  - title: Kontakt
-    url: /Contact
-    nav_order: 2
+ 
