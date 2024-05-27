@@ -15,7 +15,7 @@ nav:
     url: /
     nav_order: 1
   - title: Dokumentation
-    url: /docs
+    url: /
     nav_order: 2
     children:
       - title: Contact
