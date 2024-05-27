@@ -15,6 +15,6 @@ nav:
   - title: Contact
     url: /articles/Contact
     nav_order: 2
-    parent: Home
+    
   
  
