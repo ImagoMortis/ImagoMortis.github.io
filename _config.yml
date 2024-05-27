@@ -8,5 +8,13 @@ aux_links:
   My Github: https://github.com/ImagoMortis
 
 
-
+nav:
+  - title: Home
+    url: /
+    nav_order: 1
+  - title: Contact
+    url: /articles/Contact.md
+    nav_order: 2
+    parent: Home
+  
  
