@@ -2,7 +2,6 @@
 layout: default
 title: Contact
 nav_order: 2
-parent: Home
 ---
 
 ![logo](https://github.com/ImagoMortis/ImagoMortis.github.io/assets/114886382/60a45458-3473-4fbf-b81a-05c4a8a8bb9e)
