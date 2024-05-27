@@ -14,10 +14,6 @@ nav:
   - title: Home
     url: /
     nav_order: 1
-  - title: Dokumentation
-    url: /
+  - title: Kontakt
+    url: /contact
     nav_order: 2
-    children:
-      - title: Contact
-        url: /Contact
-        nav_order: 1
