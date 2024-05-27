@@ -10,7 +10,7 @@ aux_links:
 
 nav:
   - title: Home
-    url: /
+    url: /index.md
     nav_order: 1
   - title: Contact
     url: /articles/Contact.md
