@@ -15,5 +15,5 @@ nav:
     url: /
     nav_order: 1
   - title: Kontakt
-    url: /contact
+    url: /Contact
     nav_order: 2
