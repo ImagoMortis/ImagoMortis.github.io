@@ -10,10 +10,10 @@ aux_links:
 
 nav:
   - title: Home
-    url: /index.md
+    url: /index
     nav_order: 1
   - title: Contact
-    url: /articles/Contact.md
+    url: /articles/Contact
     nav_order: 2
     parent: Home
   
