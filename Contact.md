@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kontakt
+title: Contact
 nav_order: 1
 ---
 
