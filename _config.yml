@@ -6,3 +6,18 @@ url: https://just-the-docs.github.io
 
 aux_links:
   My Github: https://github.com/ImagoMortis
+
+
+
+  # Navigation
+nav:
+  - title: Home
+    url: /
+    nav_order: 1
+  - title: Dokumentation
+    url: /docs
+    nav_order: 2
+    children:
+      - title: Contact
+        url: /Contact
+        nav_order: 1
